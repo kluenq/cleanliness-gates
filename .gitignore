@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.cleaned.*
+*.bak
+.DS_Store
+Thumbs.db
